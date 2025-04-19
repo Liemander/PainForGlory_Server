@@ -45,3 +45,5 @@ F:\Development\Pain for Glory MMO\PainforGlory_Server\bin\Debug\net8.0\Microsoft
 F:\Development\Pain for Glory MMO\PainforGlory_Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 F:\Development\Pain for Glory MMO\PainforGlory_Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 F:\Development\Pain for Glory MMO\PainforGlory_Server\obj\Debug\net8.0\PainforGlory_Server.sourcelink.json
+F:\Development\Pain for Glory MMO\PainforGlory_Server\bin\Debug\net8.0\PainForGlory_Common.dll
+F:\Development\Pain for Glory MMO\PainforGlory_Server\bin\Debug\net8.0\PainForGlory_Common.pdb
