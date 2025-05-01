@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zTZp/xtzo6U=",
+  "dgSpecHash": "ViN5H+QrMsE=",
   "success": true,
-  "projectFilePath": "F:\\Development\\Pain for Glory MMO\\PainforGlory_Server\\PainforGlory_Server.csproj",
+  "projectFilePath": "F:\\Development\\Pain_for_Glory_MMO\\PainforGlory_Server\\PainforGlory_Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Liema\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.15\\microsoft.aspnetcore.authentication.jwtbearer.8.0.15.nupkg.sha512",
     "C:\\Users\\Liema\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
