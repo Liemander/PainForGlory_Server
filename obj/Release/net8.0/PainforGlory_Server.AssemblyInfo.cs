@@ -13,7 +13,7 @@ using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("dotnet-PainforGlory_Server-a8eddc7c-cd82-48bd-ba04-321f824156a1")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("PainforGlory_Server")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fd2fbd2eaa6d341928234855e34c6c5a63c6f27")]
 [assembly: System.Reflection.AssemblyProductAttribute("PainforGlory_Server")]
