@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PainforGlory_Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0e9f5cd119780ca0c73c3bdd7338168a186f33d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56d06960b3dcb6b96375c64bf7972a4257091fed")]
 [assembly: System.Reflection.AssemblyProductAttribute("PainforGlory_Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PainforGlory_Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
